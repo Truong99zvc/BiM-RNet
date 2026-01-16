@@ -61,7 +61,7 @@
 
 Repository này chứa mã nguồn cài đặt và đánh giá của hai mô hình:
 1.  **BiM-VFI (Reproduced)**: Phương pháp gốc từ paper, được tái lập hoàn chỉnh.
-2.  **BiM-RNet (Proposed/Extension)**: Kiến trúc đề xuất cải tiến, tích hợp **ResNet Encoder** để tối ưu hóa khả năng trích xuất đặc trưng trong các kịch bản chuyển động phức tạp.
+2.  **BiM-RNet (Proposed/Extension)**: Kiến trúc đề xuất cải tiến, tăng hiệu suất và tối ưu hóa khả năng trích xuất đặc trưng trong các kịch bản chuyển động phức tạp.
 
 **Đóng góp của nhóm sinh viên:**
 1.  **Tái lập (Reproducibility):** Huấn luyện lại mô hình BiM-VFI gốc từ đầu trên dataset Vimeo90K để kiểm chứng kết quả.
